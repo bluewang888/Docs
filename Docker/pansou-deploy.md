@@ -1,3 +1,11 @@
+---
+title: PanSou 网盘搜索部署手册
+---
+
+# PanSou 网盘搜索部署手册
+
+
+
 **PanSou 本地部署 · 完整操作手册**
 
 > 适用系统：Windows 10/11 + WSL 2 + Docker Desktop
